@@ -1,0 +1,62 @@
+
+{
+    "books": [
+      {
+        "id": 1,
+        "bookName": "One Pieceee",
+        "bookCover": "https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_square.jpg",
+        "rating": 4.5,
+        "language": "Eng",
+        "pageNo": 100,
+        "author": "Jasmine Warga",
+        "genre": ["Romance", "Adventure", "Drama"],
+        "readed": "12k",
+        "description": " is.dude.yes",
+        "backgroundColor": "rgba(240,240,232,0.9)",
+        "navTintColor": "#000"
+      },
+      {
+        "id": 2,
+        "bookName": "The Metropolis",
+        "bookCover": "path/to/metropolis.jpg",
+        "rating": 4.1,
+        "language": "Eng",
+        "pageNo": 272,
+        "author": "Seith Fried",
+        "genre": ["Adventure", "Drama"],
+        "readed": "13k",
+        "description": ".",
+        "backgroundColor": "rgba(247,239,219,0.9)",
+        "navTintColor": "#000"
+      },
+      {
+        "id": 3,
+        "bookName": "The Tiny Dragon",
+        "bookCover": "path/to/tinydragon.jpg",
+        "rating": 3.5,
+        "language": "Eng",
+        "pageNo": 110,
+        "author": "Ana C Bouvier",
+        "genre": ["Drama", "Adventure", "Romance"],
+        "readed": "13k",
+        "description": "!",
+        "backgroundColor": "rgba(119,77,143,0.9)",
+        "navTintColor": "#FFF"
+      },
+      {
+        "id": 4,
+        "bookName": "The Tiny Dragonaa",
+        "bookCover": "path/to/tinydragonaa.jpg",
+        "rating": 3.5,
+        "language": "Eng",
+        "pageNo": 110,
+        "author": "Ana C Bouvier",
+        "genre": ["Drama", "Adventure", "Romance"],
+        "readed": "13k",
+        "description": "!",
+        "backgroundColor": "rgba(119,77,143,0.9)",
+        "navTintColor": "#FFF"
+      }
+    ]
+  }
+  

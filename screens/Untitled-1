@@ -1,0 +1,11 @@
+
+
+import booksdata from '../datamanga/data.json'
+
+
+// important const books = booksdata.books;
+
+// Accessing properties of the first book
+  //  const firstBook = books[0];
+  //  console.log(firstBook.bookName); 
+  //  console.log(firstBook.bookCover)

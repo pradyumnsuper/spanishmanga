@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "Hola Manga",
+    "slug": "holamanga",
+    "version": "1.0.0",
+    "owner": "xyzstudio",
+    "orientation": "portrait",
+    "icon": "./assets/logoo.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logoo.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.xyzstudio.holamanga"
+    },
+    "web": {
+      "favicon": "./assets/logoo.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d2619360-cce2-4870-beef-42e0189128b4"
+      }
+    }
+  }
+}
+
+
